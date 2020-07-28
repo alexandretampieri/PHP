@@ -6,6 +6,6 @@ echo "Meu primeiro código PHP! <b> Hello World! </b> <br>";
 
 echo "Olá Mundo!!! <br> <br>";
 
-echo "Olá Terra!!!";
+echo "Olá Terra!!! <br> <br>";
 
 ?>
